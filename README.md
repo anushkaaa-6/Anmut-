@@ -1,5 +1,4 @@
-# Anmut-
-dw its just german for Grace :)
+# Anmut-dw its just german for Grace :)
 
 
 Understanding women and the trends that shape the indian menstrual market through data collection and visualisation 
